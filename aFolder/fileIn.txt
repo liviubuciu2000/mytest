@@ -1,1 +1,2 @@
-bbbMaster file in a subfolder
+bbbLiviuTest file in a subfolder
+
